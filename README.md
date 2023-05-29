@@ -1,11 +1,14 @@
+[![Comincilp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cominclip&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hi there 👋
 
 - 🎓 I’m a junior student at [Xidian University](https://www.xidian.edu.cn/).
 - 🌱 I’m currently learning Artificial Intelligence (Especially 3D vision).
 
-[![Comincilp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cominclip&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Cominclip/Cominclip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
