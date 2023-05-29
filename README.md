@@ -1,7 +1,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift&hide_title=true" />
 
 ### Hi there 👋
 
