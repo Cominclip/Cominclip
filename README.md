@@ -1,7 +1,7 @@
-[![Comincilp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift&hide_title=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift/>
 
 ### Hi there 👋
 
