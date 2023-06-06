@@ -7,6 +7,9 @@
 - 🎓 I’m a junior student at [Xidian University](https://www.xidian.edu.cn/).
 - 🌱 I’m currently learning Artificial Intelligence (Especially 3D vision).
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cominclip&show_icons=true&theme=swift&hide_title=true" />
+
+
 
 <!--
 **Cominclip/Cominclip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
