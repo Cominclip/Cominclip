@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🎓 I’m a junior student at [Xidian University](https://www.xidian.edu.cn/).
-- 🌱 I’m currently learning Artificial Intelligence (Especially 3D vision).
+- 🌱 I’m currently learning Artificial Intelligence (Especially Diffusion model and 3D vision).
 
 
 
