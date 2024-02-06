@@ -6,7 +6,7 @@
 
 - 🎓 I’m a junior student at [Xidian University](https://www.xidian.edu.cn/).
 - 🌱 I will pursue my master’s degree at [IIGroup](https://sites.google.com/view/iigroup-thu/home) in [Tsinghua University](https://www.tsinghua.edu.cn/), and my advisor is [Yujiu Yang](https://scholar.google.com/citations?hl=zh-CN&user=4gH3sxsAAAAJ&view_op=list_works).
-- 🔭 My research interests lie in computer vision and deep learning. Currently, I focus on LLM for Generative Models.
+- 🔭 My research interests lie in computer vision and deep learning. Currently, I focus on Diffusion-based Controllable Generation.
 
 
 
