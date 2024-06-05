@@ -6,7 +6,7 @@
 
 - 🎓 I’m a fourth-year undergraduate student in [Xidian University](https://www.xidian.edu.cn/).
 - 🌱 I will pursue my master’s degree at [IIGROUP](https://sites.google.com/view/iigroup-thu/home) in [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?hl=zh-CN&user=4gH3sxsAAAAJ&view_op=list_works).
-- 🔭 My research interests lie in Diffusion-based Controllable Generation, Text-to-Video Generation and Multimodal Large Language Models
+- 🔭 My research interests lie in Controllable Text-to-Image Generation, Text-to-Video Generation and Multimodal Large Language Models.
 
 
 
