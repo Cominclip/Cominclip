@@ -4,8 +4,8 @@
 
 ### Hi there 👋
 
-- 🎓 I’m a fourth-year undergraduate student in [Xidian University](https://www.xidian.edu.cn/).
-- 🌱 I will pursue my master’s degree at [IIGROUP](https://sites.google.com/view/iigroup-thu/home) in [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?hl=zh-CN&user=4gH3sxsAAAAJ&view_op=list_works).
+- 🎓 I’m a first-year master student at [IIGROUP](https://sites.google.com/view/iigroup-thu/home) in [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?hl=zh-CN&user=4gH3sxsAAAAJ&view_op=list_works).
+- 🌱 I am currently working closely with Dr. [Ling Yang](https://yangling0818.github.io/) and Prof. [Bin Cui](https://cuibinpku.github.io/) from DAIR Lab in Peking University.
 - 🔭 My research interests lie in Controllable Text-to-Image Generation, Text-to-Video Generation and Multimodal Large Language Models.
 
 
