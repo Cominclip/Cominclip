@@ -4,10 +4,10 @@
 
 ### Hi there 👋
 
-- 🎓 I’m a first-year master student at [IIGROUP](https://sites.google.com/view/iigroup-thu/home) in [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?hl=zh-CN&user=4gH3sxsAAAAJ&view_op=list_works).
-- 💬 I'm now a research intern at [ByteDance Seed](https://team.doubao.com/en/direction/multimodal), focus on Multimodal Large Language Models
-- 🌱 I am currently working closely with Dr. [Ling Yang](https://yangling0818.github.io/) and Prof. [Bin Cui](https://cuibinpku.github.io/) from DAIR Lab in Peking University.
-- 🔭 My research interests lie in Controllable Text-to-Image/Video Generation and Multimodal Large Language Models.
+- I’m a first-year master student at [IIGROUP](https://sites.google.com/view/iigroup-thu/home) in [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by Prof. [Yujiu Yang](https://scholar.google.com/citations?hl=zh-CN&user=4gH3sxsAAAAJ&view_op=list_works).
+- I'm now a research intern at [ByteDance Seed](https://team.doubao.com/en/direction/multimodal), focusing on Reinforcement Learning and Multimodal Large Language Models.
+- I am currently working closely with Dr. [Ling Yang](https://yangling0818.github.io/) and Prof. [Mengdi Wang](https://mwang.princeton.edu/) from AI Lab at Princeton University.
+- My research interests lie in Reinforcement Learning and Unified Understanding and Generation Models.
 
 
 
